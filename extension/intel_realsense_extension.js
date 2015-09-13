@@ -56,6 +56,7 @@
 
     
     //stage mapping
+    'use strict'
     const RS_FACE_X_MAX_RIGHT = 0;    
     const RS_FACE_X_MAX_LEFT = 600;    
     const RS_FACE_Y_MAX_UP = 250;      
